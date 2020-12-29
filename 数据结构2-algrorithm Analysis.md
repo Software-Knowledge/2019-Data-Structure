@@ -209,7 +209,7 @@
     11. O(n<sup>n<sup>.<sup>.<sup>.<sup>n</sup></sup></sup></sup></sup>)
 
 ### 5.1.1. 最大子序列的和
-1. MAXIMUM SUBSEQUNCE SUM PROBLEM 给定整数a1,a2,…,an (可能有负数），求∑a<sub>k</sub>的最大值。
+1. MAXIMUM SUBSEQUNCE SUM PROBLEM 给定整数a1,a2,…,an (可能有负数)，求∑a<sub>k</sub>的最大值。
     + 求最大子序列和
 2. 算法:
 ```java
